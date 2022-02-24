@@ -97,6 +97,18 @@ section > p {
 #img2 {
     background-image: url('imagens/background002.jpg');
 }
+#ti1 {
+    font-weight: normal;
+    border-style: solid;
+    color: black;
+}
+#ti1:hover {
+    transition: 0.5s;
+    color: white;
+    background-color: rgb(0, 0, 0);
+    border-color: rgb(61, 61, 61);
+}
+
 footer {
     background-color: black;
     color: white;
